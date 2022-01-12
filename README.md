@@ -1,6 +1,6 @@
 # Guessl
 
-This is a simple python script to play [Wordl](http://foldr.moe/hello-wordl/) so you don't have to.
+This is a simple python script to play [Wordle](https://www.powerlanguage.co.uk/wordle/) or [Wordl](http://foldr.moe/hello-wordl/) so you don't have to.
 
 It uses a word dictionary and the clues so far to determine what words are still possible, and, more
 importantly, what guess will (on average) pare down the remaining possibilities the fastest.
