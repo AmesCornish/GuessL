@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 
-import sys, re, time
+import sys, time
 
 theWordListPath = 'words'
 theTimeLimit = None # seconds
