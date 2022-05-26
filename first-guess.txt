@@ -1,0 +1,13 @@
+Wordl Guesser
+Clues: '.....' '////' ''
+There are 4608 possibilities left
+...Found abaci:85.7% (0/949 seconds)
+...Found abase:92.8% (1/969 seconds)
+...Found abets:95.9% (3/1056 seconds)
+...Found acmes:96.1% (8/1249 seconds)
+...Found acres:97.2% (8/1279 seconds)
+...Found aeons:97.3% (15/1316 seconds)
+...Found aloes:97.7% (27/1334 seconds)
+...Found rates:97.7% (990/1459 seconds)
+...Found tares:97.7% (1254/1457 seconds)
+If you guess 'tares' you'll eliminate 97.7%. (1452.1 seconds)

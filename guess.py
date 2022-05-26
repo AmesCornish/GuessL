@@ -224,7 +224,7 @@ def main(argv=sys.argv):
         if theTimeLimit is not None and totalTime > theTimeLimit: return 1
 
         if value < bestValue: continue
-        if value == bestValue and guess not in words and bestGuess in words: continue
+        if value == bestValue and guess not in words: continue
 
         print(f"...Found {guess}:{value:.1%} ({totalTime:.0f}/{totalTime*len(allWords)/count:.0f} seconds)")
         bestGuess = guess

@@ -41,6 +41,6 @@ Example: `'tas'` - None of the letters "t", "a", or "s" are in the word.
     There are 19 possibilities left
     If you guess 'bench' you'll eliminate 87.5%. (2.1 seconds)
 
-# Hint
+# Hints
 
-Two of the best first guesses are "tares" and "aloes".  A great second word guess is "doily".
+The best first guesses are "rates", "tares" and "aloes", that eliminate 97.7% of the possible answers on average.  A good second word guess is "doily".
